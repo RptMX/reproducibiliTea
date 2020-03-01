@@ -3,7 +3,7 @@ title: MX
 host-organisation: Autonomous University of the State of Mexico
 host-org-url: https://www.uaemex.mx/
 osf: bp9gz
-zotero: JI4UXPF5
+zotero: 6415598
 website: 
 twitter: Rpt_MX
 signup: antonio.ub@gmail.com
