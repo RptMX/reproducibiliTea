@@ -3,7 +3,7 @@ title: MX
 host-organisation: Autonomous University of the State of Mexico
 host-org-url: https://www.uaemex.mx/
 osf: bp9gz
-zotero: JI4UXPF5
+zotero: 6415598
 website: 
 twitter: Rpt_MX
 signup: antonio.ub@gmail.com
@@ -14,4 +14,4 @@ country: Mexico
 geolocation: [19.277888832631294, -99.65780854225159]
 ---
 
-Love open science and tea
+ReproducibiliTea journal club in Toluca city, Mexico. Open science, tea and pancakes.
