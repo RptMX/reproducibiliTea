@@ -14,4 +14,4 @@ country: Mexico
 geolocation: [19.277888832631294, -99.65780854225159]
 ---
 
-ReproducibiliTea journal club in Toluca city, Mexico. Open science, tea and pancakes.
+ReproducibiliTea journal club in Toluca city, Mexico. Open science, tea and cakes.
