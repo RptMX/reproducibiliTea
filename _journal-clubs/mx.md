@@ -8,7 +8,7 @@ website:
 twitter: Rpt_MX
 signup: antonio.ub@gmail.com
 organisers: [Antonio Laguna-Camacho]
-contact: antonio.ub@gmail.com
+contact: alagunaca@uaemex.mx
 address: [Clínica Multidisciplinaria de Salud. Calle Jesús Carranza 205, Colonia Universidad, ciudad de Toluca, Estado de México, México, código postal 50130. (or Multidisciplinary Health Clinic. 205 Jesús Carranza, Toluca city, postal code 50130, Toluca city, Mexico)]
 country: Mexico
 geolocation: [19.277888832631294, -99.65780854225159]
